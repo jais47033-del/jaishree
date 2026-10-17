@@ -31,6 +31,5 @@
 To develop practical technical skills, contribute to real-world projects, and grow as a software developer in the AI and Data Science field.
 
 ## 📫 Connect With Me
-*GitHub:https://github.com/jaishree
 * GitHub: https://github.com/jaishree
 
